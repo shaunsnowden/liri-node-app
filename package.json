@@ -1,0 +1,15 @@
+{
+  "name": "LiriBott",
+  "version": "1.0.0",
+  "description": "A specialized node bott that can fetch your tweets among other things",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shaun Snowden",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
