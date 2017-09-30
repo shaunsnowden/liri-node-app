@@ -1,15 +1,41 @@
 {
-  "name": "LiriBott",
+  "name": "snowstorm-liribot",
   "version": "1.0.0",
-  "description": "A specialized node bott that can fetch your tweets among other things",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Shaun Snowden",
+  "description": "University of Denver Full Stack Web Developer Liri bot project using node and node packages for API calls and interaction via the users terminal.",
+  "main": "liri.js",
   "dependencies": {
+    "eslint": "^4.7.2",
+    "fs": "^0.0.1-security",
     "jsonfile": "^4.0.0",
-    "node-spotify-api": "^1.0.7"
-  }
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunsnowden/liri-node-app.git"
+  },
+  "keywords": [
+    "Liri",
+    "Bott",
+    "Spotify",
+    "API",
+    "Twitter",
+    "API",
+    "OMDB",
+    "API",
+    "NODE",
+    "npm"
+  ],
+  "author": "Shaun Snowden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaunsnowden/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/shaunsnowden/liri-node-app#readme"
 }
