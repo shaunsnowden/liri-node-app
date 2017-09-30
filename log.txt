@@ -154,3 +154,270 @@ Actors: Meg Ryan, John Cusack, Kelsey Grammer, Christopher Lloyd1506792218513
  ----------USER TWEETS--------- 
  @ssnowden: Jackolatern day with the fam! http://t.co/57gbjz8x
  Date Created: Mon Oct 15 02:08:15
+
+
+ Log Date: 1506793760477
+ ----------USER TWEETS--------- 
+ @ssnowden: An API that is going to read my tweets :-P
+ Date Created: Sat Sep 30 15:59:55
+ ----------USER TWEETS--------- 
+ @ssnowden: Another day at DU-Coding Bootcamp for web development.  Creating a project that essentially queries a bunch of different search engines.
+ Date Created: Sat Sep 30 15:59:30
+ ----------USER TWEETS--------- 
+ @ssnowden: This is pretty hilarious @TDReschke https://t.co/YHsFYutIO9
+ Date Created: Wed Aug 02 21:57:19
+ ----------USER TWEETS--------- 
+ @ssnowden: Sabor @ Botanic Gardens @ Denver Botanic Gardens http://t.co/RMgzNsAm59
+ Date Created: Sat Aug 03 02:21:18
+ ----------USER TWEETS--------- 
+ @ssnowden: RT @HuffPostPol: "The greatest nation on Earth cannot keep conducting its business by drifting from one manufactured crisis to the next. ...
+ Date Created: Wed Feb 13 02:29:22
+ ----------USER TWEETS--------- 
+ @ssnowden: Look what I bought! http://t.co/r6tDsSl3
+ Date Created: Sun Feb 03 18:25:44
+ ----------USER TWEETS--------- 
+ @ssnowden: When someone mentions the word “FREE” http://t.co/Ji0Emkiz #HSWAFM via @HSWAFM
+ Date Created: Fri Jan 25 20:06:18
+ ----------USER TWEETS--------- 
+ @ssnowden: Just posted a photo http://t.co/Mb66V0bd
+ Date Created: Sun Dec 23 07:23:58
+ ----------USER TWEETS--------- 
+ @ssnowden: RT @xoxo_brandy: awesome day @KeystoneMtn! love CO, snowboarding, and good friends @ssnowden @KoldSteele @TDReschke @RjHurley http://t.c ...
+ Date Created: Sun Nov 25 17:03:14
+ ----------USER TWEETS--------- 
+ @ssnowden: Jackolatern day with the fam! http://t.co/57gbjz8x
+ Date Created: Mon Oct 15 02:08:15
+
+----------Result 1 ---------
+Artist: OneRepublic
+Song: Rich Love (with Seeb)
+Link: https://open.spotify.com/track/7dOeiXeTSfA1ixaYmQcWu7
+Album: Rich Love
+
+----------Result 2 ---------
+Artist: Kane Brown
+Song: Used to Love You Sober
+Album: Chapter 1 - EP
+Link: https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py
+
+----------Result 3 ---------
+Artist: Calvin Harris
+Song: Hard to Love
+Link: https://open.spotify.com/track/6KdmNK9MogmGcnO3wNZHhp
+Album: Funk Wav Bounces Vol.1
+----------Result 4 ---------
+Artist: 2Pac
+Song: California Love - Original Mix (Explicit)
+Album: The Best of 2Pac - Pt. 1: Thug
+Link: https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm
+
+
+----------Result 5 ---------
+Artist: OneRepublic
+Song: Love Runs Out
+Link: https://open.spotify.com/track/5BJSZocnCeSNeYMj3iVqM7
+Album: Native
+
+Artist: OneRepublic
+Song: Rich Love (with Seeb)
+Link: https://open.spotify.com/track/7dOeiXeTSfA1ixaYmQcWu7
+Album: Rich Love
+----------Result 1 ---------
+
+----------Result 2 ---------
+Artist: Kane Brown
+Song: Used to Love You Sober
+Link: https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py
+Album: Chapter 1 - EP
+
+----------Result 3 ---------
+Artist: Calvin Harris
+Link: https://open.spotify.com/track/6KdmNK9MogmGcnO3wNZHhp
+Song: Hard to Love
+Album: Funk Wav Bounces Vol.1
+
+----------Result 4 ---------
+Artist: 2Pac
+Song: California Love - Original Mix (Explicit)
+Link: https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm
+Album: The Best of 2Pac - Pt. 1: Thug
+
+----------Result 5 ---------
+Artist: OneRepublic
+Song: Love Runs Out
+Link: https://open.spotify.com/track/5BJSZocnCeSNeYMj3iVqM7
+Album: Native
+
+----------Result 1 ---------
+Artist: OneRepublic
+Song: Rich Love (with Seeb)
+Link: https://open.spotify.com/track/7dOeiXeTSfA1ixaYmQcWu7
+Album: Rich Love
+
+----------Result 2 ---------
+Artist: Kane Brown
+Song: Used to Love You Sober
+Link: https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py
+Album: Chapter 1 - EP
+
+----------Result 3 ---------
+Artist: Calvin Harris
+Song: Hard to Love
+Link: https://open.spotify.com/track/6KdmNK9MogmGcnO3wNZHhp
+Album: Funk Wav Bounces Vol.1
+
+----------Result 4 ---------
+Artist: 2Pac
+Link: https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm
+Song: California Love - Original Mix (Explicit)
+Album: The Best of 2Pac - Pt. 1: Thug
+
+----------Result 5 ---------
+Artist: OneRepublic
+Song: Love Runs Out
+Link: https://open.spotify.com/track/5BJSZocnCeSNeYMj3iVqM7
+Album: Native
+
+----------Result 1 ---------
+Artist: Harry Styles
+Link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+Song: Sign of the Times
+----------Result 2 ---------
+Artist: Ty Dolla $ign
+Song: Love U Better (feat. Lil Wayne & The-Dream)
+
+----------Result 3 ---------
+Artist: Ty Dolla $ign
+Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+
+----------Result 4 ---------
+Artist: Harry Styles
+Song: Sign of the Times
+Link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Album: Harry Styles
+Album: Love U Better (feat. Lil Wayne & The-Dream)
+
+----------Result 5 ---------
+Artist: Jeremih
+Song: Impatient
+Link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+Album: Late Nights: The Album
+
+Link: https://open.spotify.com/track/0rlFL6bxIWcCn9gk9GExFA
+
+Artist: Harry Styles
+Song: Sign of the Times
+Link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+----------Result 1 ---------
+
+----------Result 2 ---------
+Artist: Ty Dolla $ign
+Song: Love U Better (feat. Lil Wayne & The-Dream)
+Album: Love U Better (feat. Lil Wayne & The-Dream)
+Link: https://open.spotify.com/track/0rlFL6bxIWcCn9gk9GExFA
+
+Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Artist: Ty Dolla $ign
+----------Result 3 ---------
+
+----------Result 4 ---------
+Artist: Harry Styles
+Song: Sign of the Times
+Link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Album: Harry Styles
+
+----------Result 5 ---------
+Artist: Jeremih
+Song: Impatient
+Link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+Album: Late Nights: The Album
+
+Title: Batman
+Release Year: 1989
+IMdB Rating: 7.6
+Country: USA, UK
+Language: English, French
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert WuhlRotten Tomatoes Rating: 72%
+
+Title: Batman
+IMdB Rating: 7.6
+Country: USA, UK
+Language: English, French
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Release Year: 1989
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert WuhlRotten Tomatoes Rating: 72%
+
+Title: Crazy, Stupid, Love.
+Release Year: 2011
+IMdB Rating: 7.4
+Country: USA
+Language: English
+Plot: A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with the help of a newfound friend, Jacob, learning to pick up girls at bars.
+Actors: Steve Carell, Ryan Gosling, Julianne Moore, Emma StoneRotten Tomatoes Rating: 78%
+
+----------Result 1 ---------
+Artist: Cardi B
+Song: Bodak Yellow
+Link: https://open.spotify.com/track/2771LMNxwf62FTAdpJMQfM
+Album: Bodak Yellow
+
+----------Result 2 ---------
+Artist: Cardi B
+Link: https://open.spotify.com/track/7EUdsWV0Cs8nyTo4R5Ef9b
+Album: Bodak Yellow (feat. Kodak Black)
+Song: Bodak Yellow (feat. Kodak Black)
+
+Artist: Cardi B
+Song: Bodak Yellow (feat. Messiah) - Latin Trap Remix
+Link: https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt
+Album: Bodak Yellow (feat. Messiah) [Latin Trap Remix]
+----------Result 3 ---------
+
+----------Result 4 ---------
+Artist: Cardi B
+Link: https://open.spotify.com/track/18nG8W7agqAf9kFKz6T1uW
+Album: Bodak Yellow
+
+----------Result 5 ---------
+Artist: Cardi B
+Song: Bodak Yellow (feat. Messiah) - Latin Trap Remix
+Link: https://open.spotify.com/track/0Y1JHxipLS02HM0LQAzgOi
+Album: Bodak Yellow (feat. Messiah) [Latin Trap Remix]
+Song: Bodak Yellow
+
+----------Result 1 ---------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+----------Result 2 ---------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Link: https://open.spotify.com/track/68y6OIiE1nDdI1MLQdJNh8
+
+Album: The Essential Backstreet Boys
+
+----------Result 3 ---------
+Artist: Backstreet Boys
+Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Song: I Want It That Way
+----------Result 4 ---------
+Artist: Anthem Lights
+Song: I Want It That Way
+Link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Millennium
+
+Album: Covers Part IV
+
+----------Result 5 ---------
+Artist: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)

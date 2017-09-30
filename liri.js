@@ -36,11 +36,19 @@ switch(command){
     break;
 
     case "spotify-this-song":
-        getSpotify(searchString);
+        if(searchString){
+            getSpotify(searchString);
+        } else{
+            getSpotify("Bodak Yellow");
+        }
     break;
 
     case "movie-this":
-        getOMBD(searchString);
+        if(searchString){    
+            getOMBD(searchString);
+        } else {
+            getOMBD("Crazy, Stupid, Love");
+        }
     break;
 
     case "do-what-it-says":
@@ -136,5 +144,14 @@ function getTweets(){
                 fs.appendFile('log.txt',"\n ----------USER TWEETS--------- \n @ssnowden: " + tweets[i].text + "\n Date Created: " + tweetDate.substring(0,19));
             }
         }
+    })
+}
+
+function doThat(){
+    fs.readFile('random.txt', 'utf8', function(error, data){
+        // console.log(data);
+        var searchItem = data.split(',');
+        // console.log(searchItem);
+        getSpotify(searchItem[1]);
     })
 }
