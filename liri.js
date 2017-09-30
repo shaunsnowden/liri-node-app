@@ -1,5 +1,6 @@
 // Grab data from key.js
 var twitterKey = require('./key.js');
+        // console.log(twitterKey);
 
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify ({
@@ -10,10 +11,10 @@ var spotify = new Spotify ({
 var omdbKey = "40e9cece";
 
 var request = require('request');
-var twitter = require('twitter');
+var Twitter = require('twitter');
 var fs = require('fs');
 
-var client = new twitter(twitterKey.twitterKeys);
+var client = new Twitter(twitterKey);
 
 var command = process.argv[2];
 
@@ -119,5 +120,21 @@ function getOMBD (movie) {
 }
 
 function getTweets(){
+    var screenName = {screen_name: 'ssnowden'};
+    client.get('statuses/user_timeline', screenName, function(error, tweets, response){
+        if(error){
+            console.log("Error: "+ JSON.stringify(error,null,2));
+        } else {
+            fs.appendFile('log.txt',"\n\n\n Log Date: " + Date.now());
+            console.log("\n Log Date: " + Date.now());
+            for ( var i = 0; i < 10; i++){
+                var tweetDate = tweets[i].created_at;
+                console.log("");
+                console.log("------USER TWEETS-----");
+                console.log( "@ssnowden: " + tweets[i].text + "\n Date Created: " + tweetDate.substring(0,19));
 
+                fs.appendFile('log.txt',"\n ----------USER TWEETS--------- \n @ssnowden: " + tweets[i].text + "\n Date Created: " + tweetDate.substring(0,19));
+            }
+        }
+    })
 }
